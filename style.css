@@ -1,0 +1,50 @@
+h1 {
+text-align: center;
+border : double ;
+color : rgb(15,20,61);
+text-decoration-line: black;
+}
+.go {
+    text-align: center;
+text-decoration-line: black;
+}
+.img7{
+    position : relative ;
+    right : -350px;
+   bottom : -10px
+    }
+
+    .img5{
+        position : relative ;
+        right : 100px;
+        bottom : 150px
+        }
+
+.img1{
+position : relative ;
+right : 50px
+}
+.img2{
+    position : relative ;
+    right : 100px
+    }
+.img3{
+        position : relative ;
+        right : 150px
+        }
+ .img4{     position : relative ;
+            right : 200px
+            }
+
+
+.img6{
+ position : relative ;
+ right : 200px;
+bottom : 225px
+ }
+
+ 
+
+body {
+background-image: url('https://studio.code.org/api/v1/animation-library/gamelab/ObjK0o9PfyGpskE3dhusX4WC12W64Ncy/category_backgrounds/gradient_21.png')
+}
